@@ -9,7 +9,7 @@ Instructor Dr. Kevin Du
 http://www.cis.syr.edu/~wedu/Teaching/CompSec/
 <br></br>
 <br></br>
-For those of you who have reached here by searching for the solution to the assignments in the coursework, please donot copy this material, for your own benefit, it will not lead to the learning that you will get by struggling with the issues in the assignment.
+For those of you who have reached here by searching for the solution to the assignments in the coursework, please donot copy this material, for your own benefit, it will not lead to the learning that you will get by struggling with the questions in the assignment.
 
 <br></br>
 <br></br>
